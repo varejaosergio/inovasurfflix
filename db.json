@@ -2,11 +2,11 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Meus Vídeos",
+      "titulo": "Populares no Momento",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Vídeos pessoais, surfando por aí. #HabitatSalgado",
-        "url": "https://www.youtube.com/feed/my_videos"
+        "text": "Vídeos de surf que estão disponiveis no mundo.",
+        "url": "https://www.youtube.com/watch?v=htRc7UbBSus"
       }
     },
     {
@@ -46,12 +46,18 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "Best pictures. #HabitatSalgado",
-      "url": "https://www.youtube.com/watch?v=BWGaYeqBF-g"
+      "titulo": "Stab In The Dark All Stars, ft. Dane Reynolds, Mick Fanning, and Jordy Smith",
+      "url": "https://www.youtube.com/watch?v=htRc7UbBSus"
     },
     {
       "id": 2,
       "categoriaId": 1,
+      "titulo": "Best pictures. #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=BWGaYeqBF-g"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
       "titulo": "El Faro Surf! #HabitatSalgado",
       "url": "https://www.youtube.com/watch?v=31YgiLh82oE"
     },
@@ -86,7 +92,7 @@
       "url": "https://www.youtube.com/watch?v=c6PKkcIdVmM"
     },
     {
-      "id": 8,
+      "id": 27,
       "categoriaId": 2,
       "titulo": "Surfe na Barrinha e Itaúna 2020",
       "url": "https://www.youtube.com/watch?v=yzPOFlzJVYA&t=11s"
