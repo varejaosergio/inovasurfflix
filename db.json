@@ -11,20 +11,20 @@
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Surf",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Filmes e videos de Surf",
+        "url": "https://www.youtube.com/watch?v=UbLhuYWZW3A"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Tutoriais de Pranchas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Seus equipamentos explicados detalhadamente",
+        "url": "https://www.youtube.com/watch?v=htRc7UbBSus"
       }
     },
     {
@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "titulo": "Games",
+      "titulo": "Brazilian Storms",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Os Melhores surfistas do Brasil e do Mundo",
+        "url": "https://www.youtube.com/watch?v=oSR8irQRdWs&t=194s"
       }
     }
   ],
@@ -52,140 +52,140 @@
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "El Faro Surf! #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=31YgiLh82oE"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "Habitat Salgado. El Faro #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=IU_CKf1FuOU"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "Noronha 2020! #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=G1mTzto16C8"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "titulo": "Backside Atack! #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=2RmOCuhINMg"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "El Faro 2018! #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=DWBxyHkwzcQ"
     },
     {
       "id": 7,
       "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "titulo": "Some of My videos. #HabitatSalgado",
+      "url": "https://www.youtube.com/watch?v=c6PKkcIdVmM"
     },
     {
       "id": 8,
       "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "titulo": "Surfe na Barrinha e Itaúna 2020",
+      "url": "https://www.youtube.com/watch?v=yzPOFlzJVYA&t=11s"
     },
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "titulo": "Surfe com Yago Dora e João Chumbinho / Peró 2020",
+      "url": "https://www.youtube.com/watch?v=lsqzbO0pFw8"
     },
     {
       "id": 10,
       "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "titulo": "Toledo e Mineiro quebrando em Trestles!",
+      "url": "https://www.youtube.com/watch?v=wlrh8cM3zYY&t=324s"
     },
     {
       "id": 11,
       "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "titulo": "El Niños Wake",
+      "url": "https://www.youtube.com/watch?v=KnyoNUs2bdU&t=689s"
     },
     {
       "id": 12,
       "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "titulo": "The Niño (Part 2) A California Surfing Film",
+      "url": "https://www.youtube.com/watch?v=CSjyK4VrS4A"
     },
     {
       "id": 13,
       "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "titulo": "Stab In The Dark All Stars, ft. Dane Reynolds, Mick Fanning, and Jordy Smith",
+      "url": "https://www.youtube.com/watch?v=htRc7UbBSus"
     },
     {
       "id": 14,
       "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "titulo": "Stab in the Dark starring Mick Fanning. The search for the world's best surfboard.",
+      "url": "https://www.youtube.com/watch?v=1-mORwXRM4A"
     },
     {
       "id": 15,
       "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "titulo": "Stab In The Dark: Jordy Smith And The World's Best Surfboards (2017)",
+      "url": "https://www.youtube.com/watch?v=yvIGiTwFnn8&t=1202s"
     },
     {
       "id": 16,
       "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "titulo": "Stab In The Dark: Dane Reynolds And The World's Best Surfboard",
+      "url": "https://www.youtube.com/watch?v=dvsDT4nVy-Y"
     },
     {
       "id": 17,
       "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "titulo": "Full Movie: Innersection - Kelly Slater, Matt Meola, Craig Anderson [HD]",
+      "url": "https://www.youtube.com/watch?v=1_azHA9quYg&t=4249s"
     },
     {
       "id": 18,
       "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "titulo": "Taylor Steele's TRILOGY (Full Film) The Momentum Files",
+      "url": "https://www.youtube.com/watch?v=s53lt4RwT1w&t=811s"
     },
     {
       "id": 19,
       "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "titulo": "Taylor Steele's STRANGER THAN FICTION (full movie) The Momentum Files",
+      "url": "https://www.youtube.com/watch?v=0c1UtvYbPTQ"
     },
     {
       "id": 20,
       "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "titulo": "Taylor Steele's CAMPAIGN 2 (Full Film) The Momentum Files",
+      "url": "https://www.youtube.com/watch?v=TpHBBWTmIvI"
     },
     {
       "id": 21,
       "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "titulo": "The Best of Gabriel Medina… ARE YOU NOT ENTERTAINED!! - WSL Highlights",
+      "url": "https://www.youtube.com/watch?v=_a8MFyKSc1s"
     },
     {
       "id": 22,
       "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "titulo": "Best Of Filipe Toledo",
+      "url": "https://www.youtube.com/watch?v=NQTdph41Ji8"
     },
     {
       "id": 23,
       "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "titulo": "THE VERY BEST OF ITALO FERREIRA - WSL Highlights",
+      "url": "https://www.youtube.com/watch?v=DtgwxY32-Cg"
     },
     {
       "id": 24,
       "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "Adriano de Souza, o Mineirinho no Brazilian Storm",
+      "url": "https://www.youtube.com/watch?v=jw50h-4ozV0"
     },
     {
       "titulo": "Video padrão",
@@ -194,9 +194,9 @@
       "id": 25
     },
     {
-      "titulo": "Video padrão",
-      "url": "https://www.youtube.com/watch?v=BWGaYeqBF-g",
-      "categoriaId": 1,
+      "titulo": "ELE MUDOU PARA A INDONÉSIA AOS 10 ANOS E VIROU ESPECIALISTA EM TUBOS",
+      "url": "https://www.youtube.com/watch?v=QO4EJTs5SIw",
+      "categoriaId": 2,
       "id": 26
     }
   ]
