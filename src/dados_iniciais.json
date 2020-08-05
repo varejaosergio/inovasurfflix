@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Meus Vídeos",
+      "link": "https://www.youtube.com/watch?v=BWGaYeqBF-g",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Vídeos pessoais, surfando por aí. #HabitatSalgado",
+        "url": "https://www.youtube.com/feed/my_videos"
       },
       "videos": [
         {
