@@ -10,22 +10,22 @@ function Home() {
 
   useEffect(() => {
     categoriasRepository.getAllWithVideos()
-    //const URL = 'https://inovasurfflix.herokuapp.com/categorias';
-    //http://localhost:8080/categorias?_embed=videos
-      .then((categoriasComVideos) =>{
+    // const URL = 'https://inovasurfflix.herokuapp.com/categorias';
+    // http://localhost:8080/categorias?_embed=videos
+      .then((categoriasComVideos) => {
         setDadosIniciais(categoriasComVideos);
       })
-      .catch((err) =>{
+      .catch((err) => {
         console.log(err.message);
-      });    
-  }, []);  
+      });
+  }, []);
 
   return (
-    <PageDefault paddingAll={0}>    
+    <PageDefault paddingAll={0}>
       {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
-        if(indice === 0 ){
+        if (indice === 0) {
           return (
             <div key={categoria.id}>
               <BannerMain
@@ -49,8 +49,8 @@ function Home() {
           />
         );
       })}
-      
-     {/* SSV Formato anterior.  <BannerMain
+
+      {/* SSV Formato anterior.  <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription="O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"
@@ -79,7 +79,7 @@ function Home() {
 
       <Carousel
         category={dadosIniciais.categorias[5]}
-     />*/}
+     /> */}
 
     </PageDefault>
   );
